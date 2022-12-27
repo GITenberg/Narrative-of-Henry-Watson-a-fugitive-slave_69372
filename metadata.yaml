@@ -1,0 +1,31 @@
+_repo: Narrative-of-Henry-Watson-a-fugitive-slave_69372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watson, Henry
+    gutenberg_agent_id: '55178'
+    url: http://www.gutenberg.org/2009/agents/55178
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Narrative_of_Henry_Watson,_A_Fugitive_Slave'
+gutenberg_issued: '2022-11-18'
+identifiers:
+  gutenberg: '69372'
+  lccn: '13026814'
+language: en
+pgterms:marc904: https://www.loc.gov/item/92838849/
+pgterms:marc905: 20190408051159watson
+pgterms:marc906: '1848'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Library of
+  Congress)
+publication_note: 'United States: Bela Marsh,1848.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Mississippi'
+- !lcsh 'Slaves -- Mississippi -- Social conditions'
+- !lcc 'E300'
+- GITenberg
+title: Narrative of Henry Watson, a fugitive slave
+url: http://www.gutenberg.org/ebooks/69372
